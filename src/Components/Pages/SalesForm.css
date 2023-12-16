@@ -1,0 +1,62 @@
+.sales-form {
+    max-width: 400px;
+    margin: auto;
+    padding-top: 20px;
+  }
+  
+  .form-label {
+    display: block;
+    margin-bottom: 10px;
+  }
+  
+  .form-input {
+    width: 100%;
+    padding: 5px;
+    box-sizing: border-box;
+    /* Add more styles as needed */
+  }
+  
+  .form-button {
+    background: #4caf50;
+    color: white;
+    padding: 10px 15px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    /* Add more styles as needed */
+  }
+  
+  /* SalesForm.css */
+
+.sales-form-section {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh; /* Set the height to the full viewport height */
+    background-color: skyblue;
+  }
+  
+  .sales-form-section label {
+    margin-bottom: 8px;
+    color: black; /* Text color */
+  }
+  
+  .sales-form-section select,
+  .sales-form-section input {
+    width: 100%;
+    padding: 8px;
+    margin-bottom: 16px;
+  }
+  
+  .sales-form-section button {
+    background-color: black;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+  }
+  
+  /* Add more styles as needed */
+  
+  
